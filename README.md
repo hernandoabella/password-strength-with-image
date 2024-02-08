@@ -1,1 +1,1 @@
-# fuerza-de-contrasena-con-imagen
+# password-strength-with-image
